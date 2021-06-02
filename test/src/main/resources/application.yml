@@ -1,0 +1,7 @@
+lxr:
+  tz:
+    enabled: true
+    name: lxr
+    age: 23
+server:
+  port: 8028
