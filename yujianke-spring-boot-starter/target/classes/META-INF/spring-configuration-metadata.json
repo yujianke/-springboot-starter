@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "lxr.tz",
+      "type": "com.cn.server.LxrProperties",
+      "sourceType": "com.cn.server.LxrProperties"
+    },
+    {
+      "name": "yjk",
+      "type": "com.cn.model.Yujianke",
+      "sourceType": "com.cn.model.Yujianke"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lxr.tz.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cn.server.LxrProperties"
+    },
+    {
+      "name": "lxr.tz.brother-name",
+      "type": "java.lang.String",
+      "sourceType": "com.cn.server.LxrProperties"
+    },
+    {
+      "name": "lxr.tz.monther-name",
+      "type": "java.lang.String",
+      "sourceType": "com.cn.server.LxrProperties"
+    },
+    {
+      "name": "lxr.tz.name",
+      "type": "java.lang.String",
+      "sourceType": "com.cn.server.LxrProperties"
+    },
+    {
+      "name": "yjk.age",
+      "type": "java.lang.String",
+      "sourceType": "com.cn.model.Yujianke"
+    },
+    {
+      "name": "yjk.name",
+      "type": "java.lang.String",
+      "sourceType": "com.cn.model.Yujianke"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,16 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "lxr.tz.age",
+      "type": "java.lang.Integer",
+      "description": "Description for lxr.tz.age."
+    },
+    {
+      "name": "lxr.tz.name",
+      "type": "java.lang.String",
+      "description": "Description for lxr.tz.name."
+    }
+  ],
+  "hints": []
+}
